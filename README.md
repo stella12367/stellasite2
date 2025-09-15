@@ -6,3 +6,4 @@
 <h4>iets unieks van historisch belang is Farao Cheops (ook wel Khufu genoemd) liet het bouwen, en het is een van de drie beroemde piramides van het Gizeh-plateau bij Caïro. </h4>
 <h4>In Luxor gaat het om tempels en je kunt er veel historie mee zien,soms heel vagen en ander helder en er zijn heel veel begraaf plaatsen voor faraos</h4>
 <h3>je kon er veel muurschilderingen zien</h3>
+<img src=piramide jpg>
